@@ -13,7 +13,7 @@ require File.join(File.dirname(__FILE__), 'options_helper.rb')
 #     GNU General Public License for more details.
 #  
 #     You should have received a copy of the GNU General Public License
-#     along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+#     along with 'OpenVZ Core LWRP'.  If not, see <http://www.gnu.org/licenses/>.
 #  
 #     For the source code, see -- https://github.com/hyfather/openvz_core
 #     Contact me at -- mail@hyfather.com
