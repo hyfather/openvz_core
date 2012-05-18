@@ -25,7 +25,7 @@ module DevCloud
         # TODO -- externalize this configuration
         {
           :nameserver => '10.10.100.0',
-          :searchdomain => "development.my_company.com"
+          :searchdomain => "development.my_company.com",
           :userpasswd => "root:password"
         }
       end
