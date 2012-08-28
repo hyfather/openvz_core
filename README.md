@@ -5,7 +5,7 @@ Of course, such a compute cloud has limitations of affording only OS-Virtualized
 ## Using with an open-source Chef Server and Chef Client
 ### Recommended
 
-This method relies on Data Bags for storing all contianer metadata.  
+This method relies on Data Bags for storing all container metadata.  
 To create new containers, new data bags are created and uploaded to the Chef Server using its API.
 To modify existing containers, the data bags are edited, once again using the Chef Server's API.
 Currently, there is no automation for stopping and destroying containers.
