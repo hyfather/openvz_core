@@ -4,6 +4,3 @@ license          "GNU General Public License v3"
 description      "Configures and converges OpenVZ containers on a host running on RHEL (or its clones)"
 
 version          "0.0.2"
-
-depends "openvz_ohai"
-depends "openvz_backups"
